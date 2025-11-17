@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-Converted from Jupyter Notebook: main.ipynb
-Conversion Date: 2025-11-17T20:56:27.500Z
-"""
-
 import pandas as pd  # For data manipulation and analysis with DataFrames
 import numpy as np   # For efficient numerical computations and array operations
 import keras  # High-level neural networks API (TensorFlow backend)
